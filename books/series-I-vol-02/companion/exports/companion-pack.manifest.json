@@ -1,0 +1,18 @@
+{
+  "book_id": "series-I-vol-02",
+  "companion_version": "1.0.0",
+  "released": "{PASTE_PUBLICATION_DATE}",
+  "license": "CC-BY-4.0",
+  "figshare": {
+    "doi": "{PASTE_FIGSHARE_DOI}",
+    "url": "{PASTE_FIGSHARE_URL}"
+  },
+  "contents": [
+    { "path": "data/canonical-index/", "type": "folder", "description": "Structured indexing tables (JSON/CSV)" },
+    { "path": "data/controlled-vocabulary/", "type": "folder", "description": "Controlled vocabulary + mappings" },
+    { "path": "data/glossary/", "type": "folder", "description": "Glossary entries + term mappings" },
+    { "path": "data/citations/", "type": "folder", "description": "Citations table linking claims/sections to sources" },
+    { "path": "data/figures/", "type": "folder", "description": "Figures/media (optional)" },
+    { "path": "data/datasets/", "type": "folder", "description": "Supporting datasets/appendices (optional)" }
+  ]
+}
