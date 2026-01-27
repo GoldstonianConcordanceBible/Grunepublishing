@@ -1,0 +1,23 @@
+{
+  "book_id": "{book_id}",
+  "title": "{Book Title}",
+  "subtitle": "{Subtitle}",
+  "author": "{Author Name}",
+  "year": {YYYY},
+  "series": "{Series Name}",
+  "volume": "{NN}",
+  "publication_date": "{YYYY-MM-DD}",
+  "print_length_pages": null,
+  "identifiers": {
+    "asin": "{ASIN}",
+    "isbn_print": "",
+    "isbn_ebook": ""
+  },
+  "links": {
+    "amazon": "{AMAZON_URL}",
+    "canonical_repo_folder": "{GITHUB_FOLDER_URL}",
+    "figshare_companion": "{FIGSHARE_URL}",
+    "figshare_doi": "{FIGSHARE_DOI}"
+  },
+  "keywords": ["{keyword1}", "{keyword2}", "{keyword3}"]
+}
