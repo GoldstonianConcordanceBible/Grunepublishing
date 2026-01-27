@@ -5,7 +5,7 @@ Wisdom and Worship (Goldstonian Concordance Bible, Vol II) — Companion Pack (G
 dataset
 
 ## Authors
-Justin Goldston (ORCID: {PASTE_ORCID_IF_YOU_HAVE_ONE})
+Justin Goldston (ORCID: https://orcid.org/0000-0002-3923-5072)
 
 ## Categories (choose closest available in Figshare)
 Digital Humanities; Religious Studies; Theology; Information Science; Education
@@ -13,7 +13,7 @@ Digital Humanities; Religious Studies; Theology; Information Science; Education
 ## Keywords
 Goldstonian Concordance Bible; Ethiopian Canon; wisdom; worship; Psalms; Proverbs; Job; Ecclesiastes; Song of Songs; Sirach; Wisdom of Solomon; prayer plan; spiritual formation; controlled vocabulary; canonical index; glossary; citations table; machine readable; LLM retrieval
 
-## Description (paste this whole block)
+## Description
 **Purpose:**  
 This item is the official citable **companion research object** for *The Goldstonian Concordance Bible: Volume II — Wisdom and Worship* by Justin Goldston. It provides machine-readable materials (canonical index, controlled vocabulary, glossary, and citations table) to support academic citation, preaching/teaching, and retrieval.
 
@@ -34,8 +34,8 @@ Wisdom isn’t information—it’s survival. This volume turns the Wisdom and W
 3. Use the citations table to trace key claims and supporting sources.
 
 **Relationship to the book:**
-- Primary book (ASIN {PASTE_ASIN}): {PASTE_AMAZON_URL}
-- Canonical GitHub folder: {PASTE_GITHUB_URL_TO_books/series-I-vol-02/}
+- Primary book (ASIN B0GGZ4GJ7J): https://a.co/d/65MSQ0v
+- Canonical GitHub folder: https://github.com/GoldstonianConcordanceBible/Grunepublishing
 
 **Versioning:**
 This record corresponds to **Companion Pack v1.0.0**. Updates follow semantic versioning.
