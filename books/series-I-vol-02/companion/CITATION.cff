@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this companion pack, please cite it as below."
+title: "Wisdom and Worship — Companion Pack (Research Object)"
+version: "1.0.0"
+date-released: "{PASTE_PUBLICATION_DATE}"
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    orcid: "https://orcid.org/{PASTE_ORCID_IF_YOU_HAVE_ONE}"
+repository-code: "{PASTE_GITHUB_URL_TO_books/series-I-vol-02/}"
+url: "{PASTE_FIGSHARE_URL}"
+doi: "{PASTE_FIGSHARE_DOI}"
+keywords:
+  - "Goldstonian Concordance Bible"
+  - "Ethiopian Canon"
+  - "Wisdom literature"
+  - "Psalms"
+  - "Worship"
+  - "controlled vocabulary"
+  - "canonical index"
+  - "glossary"
+  - "citations table"
+license: "CC-BY-4.0"
