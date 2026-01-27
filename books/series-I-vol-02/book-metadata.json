@@ -1,0 +1,38 @@
+{
+  "book_id": "series-I-vol-02",
+  "title": "The Goldstonian Concordance Bible: Volume II: Wisdom and Worship",
+  "subtitle": "The Ethiopian Canon Edition (81 Books)",
+  "author": "Justin Goldston",
+  "year": 2026,
+  "series": "The Goldstonian Concordance Bible Series I (6 Volumes)",
+  "volume": "02",
+  "publication_date": "{PASTE_PUBLICATION_DATE}",
+  "print_length_pages": null,
+  "identifiers": {
+    "asin": "{PASTE_ASIN}",
+    "isbn_print": "",
+    "isbn_ebook": ""
+  },
+  "links": {
+    "amazon": "{PASTE_AMAZON_URL}",
+    "canonical_repo_folder": "{PASTE_GITHUB_URL_TO_books/series-I-vol-02/}",
+    "figshare_companion": "{PASTE_FIGSHARE_URL}",
+    "figshare_doi": "{PASTE_FIGSHARE_DOI}"
+  },
+  "keywords": [
+    "Goldstonian Concordance Bible",
+    "Ethiopian Canon",
+    "Wisdom literature",
+    "Worship",
+    "Psalms prayer plan",
+    "Proverbs ethics",
+    "Job suffering and integrity",
+    "Ecclesiastes meaning and seasons",
+    "Song of Songs covenant love",
+    "Wisdom of Solomon",
+    "Sirach",
+    "Mirror Water Fire",
+    "Controlled vocabulary",
+    "Canonical index"
+  ]
+}
