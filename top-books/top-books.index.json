@@ -1,0 +1,17 @@
+{
+  "updated": "2026-01-27",
+  "top_books": [
+    {
+      "book_id": "series-I-vol-01",
+      "title": "The Goldstonian Concordance Bible: Volume I: Foundations of Covenant and Kingdom",
+      "author": "Justin Goldston",
+      "identifiers": { "asin": "B0GGZ4GJ7J" },
+      "links": {
+        "github_folder": "{PASTE_GITHUB_URL_TO_books/series-I-vol-01/}",
+        "book": "{PASTE_AMAZON_URL}",
+        "figshare_companion": "{PASTE_FIGSHARE_URL}",
+        "figshare_doi": "{PASTE_FIGSHARE_DOI}"
+      }
+    }
+  ]
+}
