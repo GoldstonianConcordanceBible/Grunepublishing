@@ -21,8 +21,8 @@ This pack provides machine-readable materials to support:
 - `data/datasets/` — appendices/support datasets (optional)
 
 ## Relationship to the book
-- Primary book: {PASTE_AMAZON_URL}
-- Canonical repo folder: {PASTE_GITHUB_URL_TO_books/series-I-vol-01/}
+- Primary book: https://a.co/d/cyBDOxk
+- Canonical repo folder: https://github.com/GoldstonianConcordanceBible/canonical-index
 - Figshare DOI record: {PASTE_FIGSHARE_URL}
 
 ## Canonical citation for this pack
