@@ -6,8 +6,8 @@
 **Print length:** 191 pages
 
 ## Links
-- **Primary book link (Amazon):** {PASTE_AMAZON_URL}
-- **Canonical repo folder:** {PASTE_GITHUB_URL_TO_books/series-I-vol-01/}
+- **Primary book link (Amazon):** https://a.co/d/6IgVozw
+- **Canonical repo folder:** https://github.com/GoldstonianConcordanceBible/canonical-index
 
 ## What this folder contains
 - `book-metadata.json` — machine-readable metadata for this volume
