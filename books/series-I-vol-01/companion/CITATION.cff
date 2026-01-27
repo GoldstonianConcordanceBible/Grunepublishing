@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this companion pack, please cite it as below."
+title: "Foundations of Covenant and Kingdom — Companion Pack (Research Object)"
+version: "1.0.0"
+date-released: "2026-01-19"
+authors:
+  - family-names: "Goldston"
+    given-names: "Justin"
+    orcid: "https://orcid.org/0000-0002-3923-5072"
+repository-code: "{PASTE_GITHUB_URL_TO_books/series-I-vol-01/}"
+url: "{PASTE_FIGSHARE_URL}"
+doi: "{PASTE_FIGSHARE_DOI}"
+keywords:
+  - "Goldstonian Concordance Bible"
+  - "Ethiopian Canon"
+  - "Torah"
+  - "Covenant"
+  - "Kingdom"
+  - "controlled vocabulary"
+  - "canonical index"
+  - "glossary"
+  - "citations table"
+license: "CC-BY-4.0"
