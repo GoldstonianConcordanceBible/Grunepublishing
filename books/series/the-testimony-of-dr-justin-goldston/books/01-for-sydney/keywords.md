@@ -1,0 +1,7 @@
+- fatherhood memoir
+- christian testimony
+- faith and resilience
+- boundaries and peace
+- healing journey
+- spiritual growth
+- family devotion
