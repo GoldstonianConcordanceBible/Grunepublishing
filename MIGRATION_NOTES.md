@@ -1,0 +1,1 @@
+Note: The Testimony series currently lives at `series/series/the-testimony-of-dr-justin-goldston/` (double series). Do not duplicate; migrate later.
