@@ -1,0 +1,7 @@
+- practical philosophy
+- daily meaning system
+- faith and reason
+- discipline and peace
+- life framework
+- resilience practices
+- purpose-driven living
