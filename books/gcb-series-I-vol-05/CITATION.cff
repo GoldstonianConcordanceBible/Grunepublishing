@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work in academic writing, please cite it using the DOI (preferred) once minted."
+title: "The Goldstonian Concordance Bible: Volume V — Jesus, the Church, and the Walk"
+type: book
+authors:
+  - name: "Justin Goldston"
+    orcid: ""
+version: "1.0"
+date-released: "2026-01-28"
+publisher: "G. Rune Publishing"
+identifiers:
+  - type: doi
+    value: ""
+  - type: other
+    value: "book_id:gcb-series-I-vol-05"
+repository-code: "https://github.com/GoldstonianConcordanceBible/GoldstonianConcordanceBible"
+url: "https://github.com/GoldstonianConcordanceBible/GoldstonianConcordanceBible/tree/main/books/gcb-series-I-vol-05"
+keywords:
+  - Jesus Christ
+  - Gospels
+  - Acts
+  - Epistles
+  - Revelation
+  - Church formation
+  - Discipleship
+  - Rule of Life
+  - Ethiopian canon
