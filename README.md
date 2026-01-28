@@ -1,4 +1,4 @@
-# G. Rune Publishing — Citable Book Companion Repository
+# G. Rune Publishing - Citable Book Companion Repository
 
 This repository hosts **machine-readable companion packs** for G. Rune Publishing books.
 Each “Companion Pack” is designed to be a **citable research object** (Figshare DOI),
