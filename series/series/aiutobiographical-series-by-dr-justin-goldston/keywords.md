@@ -1,0 +1,7 @@
+- family office framework
+- legacy and governance
+- personal operating system
+- integrity under pressure
+- faith and discipline
+- resilience blueprint
+- purpose-driven leadership
