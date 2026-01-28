@@ -1,0 +1,68 @@
+name: Metadata Fix (Title / IDs / Canon)
+description: Report a correction to book metadata (Series/Volume/Title/ASIN/ISBN/DOI) or canon-routing.
+title: "[Metadata] "
+labels: ["metadata", "triage"]
+body:
+  - type: dropdown
+    id: field
+    attributes:
+      label: Which field is wrong or missing?
+      options:
+        - Series ID / Series Name
+        - Volume ID / Volume Number
+        - Title / Subtitle
+        - DOI
+        - ASIN
+        - ISBN
+        - Keywords / Routing
+        - Cross-links
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: book_id
+    attributes:
+      label: Book ID (if known)
+      placeholder: "series-I-vol-01"
+    validations:
+      required: false
+
+  - type: input
+    id: file_path
+    attributes:
+      label: File path(s) to update
+      placeholder: "metadata/MASTER_BOOK_INDEX.json"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_value
+    attributes:
+      label: Current value
+      placeholder: "What does the repo currently say?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed_value
+    attributes:
+      label: Proposed corrected value
+      placeholder: "What should it say instead?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: source
+    attributes:
+      label: Source / proof
+      description: Provide the authoritative source (Zenodo/Figshare record, Amazon listing, or official doc).
+      placeholder: "DOI record link / ASIN page / screenshot..."
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Future $GCB Token Rewards (planned)
+        Valid, verifiable metadata fixes may be eligible for future $GCB token rewards (rules/TBD).
