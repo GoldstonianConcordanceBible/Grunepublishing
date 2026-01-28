@@ -1,10 +1,10 @@
 # Series Overview
 
-This series is a receipts-first testimony of a father’s pursuit of truth, peace, and the ability to remain fully present in his daughter’s life—told without polish, without pity, and without performance.
+The AIutobiographical Series is a lived-experience record that blends memoir, philosophy-in-action, and spiritual reflection.
 
-Built on a ruthless premise—“the devil knows the Bible too”—this series separates Scripture from spin, faith from manipulation, and religious language from moral reality.
-
-This is not reconciliation marketing.
-This is testimony.
+Core aim:
+- tell the truth without targeting others
+- turn pain into wisdom
+- build frameworks that help readers choose peace, integrity, and healing
 
 Elohim Tov.
