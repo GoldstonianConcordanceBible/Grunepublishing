@@ -1,0 +1,90 @@
+schema_version: "1.0"
+
+book_id: "gcb-series-I-vol-05"
+line: "gcb"
+imprint: "G. Rune Publishing"
+
+series_id: "gcb-series-I"
+series_title: "The Goldstonian Concordance Bible Series I"
+volume: 5
+
+title: "The Goldstonian Concordance Bible: Volume V — Jesus, the Church, and the Walk"
+subtitle: null
+
+authors:
+  - name: "Justin Goldston"
+    orcid: null
+
+created: "2026-01-28"
+published: null
+edition: "1.0"
+
+abstract: >
+  The Goldstonian Concordance Bible: Volume V — Jesus, the Church, and the Walk is where the promise steps into history
+  and then trains a people. After Volumes I–IV build the covenant world, Volume V turns the whole series “toward the sun”:
+  Jesus Christ revealed in the Gospels, the Spirit-formed movement in Acts, the Church’s mind-and-life formation in the Letters,
+  endurance without panic in Revelation, and a practical “Walking Rule” that makes discipleship real at home and in public.
+  Built for clarity, preaching, deep study, and daily formation, this volume follows a consistent Concordance Spine
+  (Purpose Thesis, Narrative Flow, Core Theology, Messiah Thread, Cross-Links, Hard Questions, Preacher’s Toolkit, Walking Rule Tie-In).
+  This is not a fear-book. It’s a walk-book.
+
+concordance_spine:
+  - "Purpose Thesis"
+  - "Narrative / Argument Flow"
+  - "Core Theology"
+  - "Messiah Thread"
+  - "Cross-Links"
+  - "Hard Questions"
+  - "Preacher’s Toolkit"
+  - "Walking Rule Tie-In"
+
+contents_highlights:
+  - "Four Gospel profiles (Matthew, Mark, Luke, John) plus a usable Gospel Harmony Map"
+  - "Acts + Letters + Revelation as a unified formation engine for the Church"
+  - "Ethiopian NT formation materials (Sinodos, Dominos, Clement, Didascalia) as discipleship scaffolding"
+  - "Part VII: The Walking Rule — practical Rule of Life for personal, family, community, public witness"
+
+identifiers:
+  doi: null
+  figshare_url: null
+  asin: null
+  isbn_print: null
+  isbn_ebook: null
+
+links:
+  canonical_repo: "https://github.com/GoldstonianConcordanceBible/GoldstonianConcordanceBible"
+  canonical_path: "books/gcb-series-I-vol-05/"
+  amazon: null
+  figshare: null
+  youtube: null
+
+keywords:
+  - "Jesus Christ"
+  - "Gospels"
+  - "Matthew"
+  - "Mark"
+  - "Luke"
+  - "John"
+  - "Acts"
+  - "Pauline Epistles"
+  - "General Epistles"
+  - "Revelation"
+  - "Church formation"
+  - "Discipleship"
+  - "Rule of Life"
+  - "Walking Rule"
+  - "Ethiopian canon"
+  - "Sinodos"
+  - "Dominos"
+  - "Clement"
+  - "Didascalia"
+  - "Biblical theology"
+  - "Covenant"
+  - "Messiah thread"
+  - "Preaching toolkit"
+
+rights:
+  license: "All rights reserved (unless otherwise stated)"
+  notes: "If you later publish an open-access edition, update this section and Figshare licensing to match."
+
+recommended_citation_style: "doi-preferred"
