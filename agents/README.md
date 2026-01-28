@@ -8,5 +8,3 @@ Purpose: help readers process, reflect, heal, and grow through the material.
 - No naming/targeting private individuals
 - Healing-first, peace-first, integrity-first
 
-Folder convention:
-agents/<series-id>/<book-id>/
