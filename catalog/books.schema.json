@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/g-rune/catalog/books.schema.json",
+  "title": "G. Rune Publishing Book Catalog Entry",
+  "type": "object",
+  "required": ["schema_version", "book_id", "title", "imprint", "created", "edition", "identifiers", "links", "keywords"],
+  "properties": {
+    "schema_version": { "type": "string", "enum": ["1.0"] },
+    "book_id": { "type": "string", "minLength": 3 },
+    "line": { "type": "string", "description": "High-level product line (e.g., gcb, grune)" },
+    "imprint": { "type": "string", "description": "Imprint/publisher label" },
+    "series_id": { "type": ["string", "null"] },
+    "volume": { "type": ["integer", "null"], "minimum": 1 },
+    "title": { "type": "string" },
+    "subtitle": { "type": ["string", "null"] },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name"],
+        "properties": {
+          "name": { "type": "string" },
+          "orcid": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "created": { "type": "string", "description": "YYYY-MM-DD" },
+    "published": { "type": ["string", "null"], "description": "YYYY-MM-DD" },
+    "edition": { "type": "string", "description": "e.g., 1.0, 1.1, 2.0" },
+    "abstract": { "type": ["string", "null"] },
+    "keywords": { "type": "array", "
