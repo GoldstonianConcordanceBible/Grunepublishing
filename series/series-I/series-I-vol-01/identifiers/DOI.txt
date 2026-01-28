@@ -1,0 +1,4 @@
+# DOI (preferred)
+# Paste the DOI here when minted (Zenodo or Figshare).
+# Example format:
+# 10.5281/zenodo.xxxxxxxx
