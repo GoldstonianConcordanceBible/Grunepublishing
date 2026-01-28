@@ -1,0 +1,71 @@
+name: Bug / Broken Link / Wrong Info
+description: Report an error, broken link, mismatch, or anything that could cause confusion or hallucination.
+title: "[Bug] "
+labels: ["bug", "triage"]
+body:
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      description: What kind of problem is this?
+      options:
+        - Metadata (title/subtitle/series/volume)
+        - Identifier (DOI/ASIN/ISBN)
+        - Broken link
+        - Naming / folder structure
+        - LLM routing / instructions
+        - Typo / formatting
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location (path or URL)
+      description: Paste the exact repo path(s) or link(s) where the problem exists.
+      placeholder: "series/series-I/series-I-vol-01/identifiers/DOI.txt"
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+      description: Describe the correct behavior or correct information.
+      placeholder: "Expected DOI to be present and match Zenodo record..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: found
+    attributes:
+      label: What you found
+      description: Describe the problem as it currently appears.
+      placeholder: "DOI file is blank / link returns 404 / title mismatch..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (optional)
+      description: Paste supporting details (screenshots, excerpts, error messages).
+      placeholder: "Screenshot link / quoted lines / error output..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggested_fix
+    attributes:
+      label: Suggested fix (optional)
+      description: If you know what should change, propose it.
+      placeholder: "Replace X with Y / update DOI to ... / fix link to ..."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Future $GCB Token Rewards (planned)
+        Valid, verifiable reports may be eligible for future $GCB token rewards (rules/TBD).
