@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "book_id": "gcb-series-I-vol-05",
+  "title": "The Goldstonian Concordance Bible: Volume V — Jesus, the Church, and the Walk",
+  "identifiers": {
+    "doi": "",
+    "figshare_url": "",
+    "asin": "",
+    "isbn_print": "",
+    "isbn_ebook": ""
+  },
+  "preferred_citation_key_order": ["doi", "book_id", "isbn_print", "asin"]
+}
