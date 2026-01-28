@@ -1,0 +1,7 @@
+- resilience memoir
+- faith through hardship
+- discipline and healing
+- emotional endurance
+- growth mindset spirituality
+- peace and integrity
+- rebuilding after loss
